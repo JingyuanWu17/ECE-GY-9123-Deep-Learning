@@ -1,2 +1,1 @@
-# DL
-ECE-GY 9123 Deep Learning
+# ECE-GY 9123 Deep Learning
